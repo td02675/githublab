@@ -14,7 +14,7 @@ public class test {
 		//tell it to ignore bin file
 		//dont have a bin somehow
 		//git over it
-		System.out.println("THIS VIDEO IS PURE POISON");
+		System.out.println("New output");
 	}
 
 }
