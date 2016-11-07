@@ -15,7 +15,6 @@ public class Main {
            System.out.println("This app shows sales data.");
            System.out.println("----------Fanfare---------");
            
-           
   } //End displayGreeting
 
 }  //End class Main
