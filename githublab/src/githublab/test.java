@@ -10,6 +10,7 @@ public class test {
 	
 	static void hello() {
 		System.out.println("Hello, this is a test file. Please ignore.");
+		System.out.println("Crawling in my skin.");
 	}
 
 }
