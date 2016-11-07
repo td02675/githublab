@@ -11,6 +11,9 @@ public class test {
 	static void hello() {
 		System.out.println("Hello, this is a test file. Please ignore.");
 		System.out.println("Crawling in my skin.");
+		//tell it to ignore bin file
+		//dont have a bin somehow
+		//git over it
 	}
 
 }
